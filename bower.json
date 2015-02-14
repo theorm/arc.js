@@ -1,6 +1,8 @@
 {
   "name": "arc.js",
-  "main": "index.js",
+  "main": [
+    "arc.js"
+  ],
   "version": "0.1.0",
   "homepage": "https://github.com/springmeyer/arc.js",
   "authors": [
